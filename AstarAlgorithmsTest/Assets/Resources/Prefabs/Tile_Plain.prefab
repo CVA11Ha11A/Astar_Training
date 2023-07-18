@@ -347,7 +347,7 @@ GameObject:
   - component: {fileID: 1954735454396639057}
   - component: {fileID: 1223188361794552247}
   m_Layer: 5
-  m_Name: Renderer
+  m_Name: FrontRenderer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
